@@ -7,3 +7,5 @@ Sho Doi 作成の Git リポジトリ
 GNU Freed Documentation License
 
 Copyright &copy; 2014 Sho Doi
+
+added by Tam at 17:23
